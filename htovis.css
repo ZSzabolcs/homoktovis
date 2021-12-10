@@ -76,6 +76,7 @@ p:first-letter
 
 li
 {
+  list-style-image= url("bogyo.png");
   margin: 3px 0px;
   font-style: italic;
 }
